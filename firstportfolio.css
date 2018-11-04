@@ -1,0 +1,40 @@
+
+body {
+	background: url(https://images.unsplash.com/photo-1541102387691-6c263a16c763?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4a6de9ebb8419913f2af116925ea1815&auto=format&fit=crop&w=1489&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arvo', serif;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			     0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1); 
+}   /*x-axis y-axis radius color*/
+
+
+/*used to cover image full scrren niche tk pura*/
+html {
+	height: 100%;
+}
+
+
+h1 {
+	color: white;
+	font-weight: 700; 
+	font-size: 3em;
+
+}
+
+h3 {
+	color: white;
+}
+
+hr {
+	width: 500px;
+	/*for border on line*/
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid (0,0,0,0.2);
+}
